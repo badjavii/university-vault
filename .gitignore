@@ -1,0 +1,44 @@
+# ─────────────────────────────────────────────────────────────
+# Obsidian
+# ─────────────────────────────────────────────────────────────
+# Ephemeral workspace state (window layout, open panes, etc.)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache and generated data
+.obsidian/cache
+.obsidian/graph.json
+
+# Plugin-specific runtime state (uncomment if noisy)
+# .obsidian/plugins/*/data.json
+
+# ─────────────────────────────────────────────────────────────
+# OS junk
+# ─────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─────────────────────────────────────────────────────────────
+# Editors
+# ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+
+# ─────────────────────────────────────────────────────────────
+# Temp / backup files
+# ─────────────────────────────────────────────────────────────
+*.tmp
+*.temp
+*.bak
+*.old
